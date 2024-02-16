@@ -1,0 +1,281 @@
+@media (max-width: 1120px) {}
+
+
+@media (max-width: 992px) {
+    .welcome_detail {
+        width: 100%;
+
+    }
+
+    .service_img-container .service_img-box.i-box-1 {
+        width: 100%;
+    }
+
+    .service_img-container .service_img-box.i-box-2 {
+        width: 100%;
+    }
+
+    .service_img-container .service_img-box.i-box-3 {
+        width: 100%;
+    }
+
+    .service_img-container .service_img-box.i-box-4 {
+        width: 100%;
+    }
+
+    .contact_form-container .contact_box {
+        width: 75%;
+
+    }
+
+    .contact_form-container form input,
+    .contact_form-container form input:focus,
+    .contact_form-container form input:active {
+        width: 100%;
+    }
+
+    .service_img-container .service_img-box {
+        margin-top: 35px;
+    }
+
+    .info_section .news_container .social_container {
+
+        width: 100%;
+    }
+
+    .owl-carousel .owl-nav,
+    .owl-carousel .owl-nav.disabled {
+
+        display: flex;
+        position: absolute;
+        top: 110%;
+        transform: translate(-50%);
+        justify-content: space-between;
+        width: 40%;
+        z-index: 0;
+        left: 50%;
+
+    }
+}
+
+@media (max-width: 768px) {
+    .welcome_detail {
+
+        margin-top: 25px;
+    }
+
+    .story_detail {
+
+
+        margin-top: 25px;
+
+    }
+
+    .contact_form-container form input,
+    .contact_form-container form input:focus,
+    .contact_form-container form input:active {
+
+        width: 85%;
+
+    }
+
+    .service_section .container {
+
+        padding: 0;
+
+    }
+
+    .col-md-4.address_container {
+
+        margin-top: 25px;
+
+    }
+
+    .col-md-4.news_container {
+
+        margin-top: 25px;
+
+    }
+
+    .contact_section .row .col-md-6 {
+
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+}
+
+
+
+@media (max-width: 576px) {
+    .slider_section .slider_box .slider-detail .slider_detail-text {
+
+        width: 85%;
+    }
+
+    .service_section .container {
+
+        width: 90%;
+    }
+
+    .slider_section .carousel-indicators {
+
+        top: 95%;
+        left: 25%;
+
+        display: flex;
+
+        justify-content: space-between;
+        width: 100px;
+        align-items: center;
+
+    }
+
+    .owl-carousel .owl-nav,
+    .owl-carousel .owl-nav.disabled {
+
+
+        width: 75%;
+
+
+    }
+
+    .contact_form-container .contact_box {
+
+        width: 85%;
+
+    }
+
+    .contact_form-container .contact_box {
+
+
+        padding: 35px 35px;
+
+        margin: 100px 25px;
+
+    }
+
+    .contact_form-container form input,
+    .contact_form-container form input:focus,
+    .contact_form-container form input:active {
+        width: 100%;
+    }
+
+    .info_section .news_container form input {
+        width: 90%;
+
+    }
+
+}
+
+@media (max-width: 800px){
+    .contact_section .contact-info-container .box{
+        display: grid;
+        width: 100%;
+    }
+}
+@media (max-width: 670px){
+    .contact_section .container-fluid .map{
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .service_section .service_img-container .service_img-box {
+        min-width: 275px;
+        height: 250px;
+    }
+}
+
+@media (min-width: 1200px) {}
+
+    /* login form*/
+
+@media (max-width: 700px){
+    .from-sign{
+        margin: 20px 50px;
+    }
+    .from-sign input{
+        width: 85%;
+    };
+    .button_group{
+        width: 33%;
+    }
+}
+
+/* end login form  */
+
+/* start card section  */
+
+@media(max-width:900px){
+    .card{
+        display: block;
+        width: 90%;
+        margin-left: 5%;
+    }
+}
+
+
+/* end card section  */
+
+/* start card home section  */
+
+@media(max-width:1120px) {
+    .card-section .card-home{
+        display: block;
+        width: 90%;
+    }
+}
+
+/* end card home section  */
+
+/* start advantages section */
+
+@media(max-width:1310px){
+    .advantage .boxs{
+        display: block;
+        text-align: center;
+    }
+   
+}
+
+@media(max-width:458px){
+    .advantage .boxs img{
+        height: 200px;
+        width: 200px;
+    };
+}
+
+/* end advantages section  */
+
+
+/* start pricing section  */
+
+@media(max-width:970px){
+    .pricing{
+        text-align: center;
+    }
+}
+
+/* end pricing section  */
+
+/* start gallery section  */
+
+@media(max-width:405px){
+    .gallery .gallery-main img{
+        height: auto;
+    }
+}
+
+/* end gallery section  */
+
+/* start arrow */
+
+/* @media (max-width: 730px){
+    .arrow{
+        display: none;
+    }
+} */
+/* end arrow  */
